@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "google-play-scraper"
-version = "1.2.7"
+name = "google-play-scraper-py-trkjoy"
+version = "1.2.71"
 description = "Google-Play-Scraper provides APIs to easily crawl the Google Play Store for Python without any external dependencies!"
 authors = ["JoMingyu <mingyu.planb@gmail.com>"]
 license = "MIT"
@@ -24,7 +24,7 @@ classifiers = [
     "Typing :: Typed",
 ]
 readme = "README.md"
-repository = "https://github.com/JoMingyu/google-play-scraper"
+repository = "https://github.com/trkjoy/google-play-scraper-py-trkjoy"
 
 [tool.poetry.dependencies]
 python = ">= 3.7,< 4.0"
